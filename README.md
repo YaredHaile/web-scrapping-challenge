@@ -35,7 +35,7 @@ The data was analysed to answer the following questions:
 
  - How many months exist on Mars? 
  - How many Martian days' worth of data are there?
- - 
+   
 The data was analysed to answer the following questions, and a data visualisation was created to support each answer:
  
  - Which month, on average, has the lowest temperature? The highest? 
